@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação pela FIAP`**
 
-Olá, me chamo Erenice (Eren para quem preferir), tenho 21 anos e sou de São Paulo - SP. Concluí o ensino médio no interior do Piauí. Atualmente, estou cursando o 1ª ano em Análise e Desenvolvimento de Sistemas na FIAP. A tecnologia sempre foi uma área que me encantou e hoje estou aqui para buscar conhecimento e também compartilhá-lo.
+Olá, me chamo Erenice Barros Evangelista (Eren, se preferir), tenho 21 anos e sou de São Paulo - SP. Concluí o ensino médio no interior do Piauí. Atualmente, estou cursando o 1ª ano em Análise e Desenvolvimento de Sistemas na FIAP. A tecnologia sempre foi uma área que me encantou e hoje estou aqui para buscar conhecimento e também compartilhá-lo.
 
 
 ---
